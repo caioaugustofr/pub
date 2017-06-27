@@ -1,0 +1,18 @@
+﻿@font-face {
+font-family: 'MuseoSlab-500';
+src: url('webfonts/314AA4_0_0.eot');
+src: local("MuseoSlab 500"), local("MuseoSlab-500"),
+     url('webfonts/314AA4_0_0.eot?#iefix') format('embedded-opentype'),
+     url('webfonts/314AA4_0_0.woff2') format('woff2'),
+     url('webfonts/314AA4_0_0.woff') format('woff'),
+     url('webfonts/314AA4_0_0.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MuseoSans-500';
+src: url('webfonts/MuseoSans_500.eot');
+src: local('☺'),
+    url('webfonts/MuseoSans_500.woff') format('woff'),
+    url('webfonts/MuseoSans_500.ttf') format('truetype'),
+    url('webfonts/MuseoSans_500.svg') format('svg');
+}
